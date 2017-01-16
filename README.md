@@ -28,7 +28,8 @@ Command -  'I want to watch a movie' or 'Book 5 tickets for dhruva movie this fr
 
 
 This command requires the following parameters
-   # Name of the Movie,  Name of theatre, Day of the movie, Show time and No. of tickets
+     
+          Name of the Movie,  Name of theatre, Day of the movie, Show time and No. of tickets
 
 *Movie names (Telugu movies as of 2017)
 
